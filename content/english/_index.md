@@ -3,7 +3,7 @@
 banner:
   title: "Welcome to the IETF Trust"
   content: "The Trust was created by the [Internet Society](http://www.isoc.org/) and the [Corporation for National Research Initiatives](http://www.cnri.reston.va.us/) as settlors, the Internet Engineering Task Force and the Initial Trustees on December 15, 2005."
-  image: "/images/banner.png"
+  image: "/images/undraw_engineering_team_a7n2.svg"
   button:
     enable: true
     label: "Learn more"
@@ -11,41 +11,38 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What is the IETF Trust?"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "The purposes of the trust include the advancement of educational and public interest by acquiring, holding, maintaining and licensing certain existing and future intellectual property and other property used in connection with the Internet standards process and its administration, for the advancement of the science and technology associated with the Internet and related technology."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      - "Phasellus sollicitudin mauris sed tellus vehicula"
+      - "Nullam sit amet sem quis ante bibendum viverra"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Who Benefits from the Trust?"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "The Beneficiary of the Trust shall be the IETF as a whole and not any individuals who may participate in IETF activities or either of the Settlors."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "The IETF Trust Founding Documents hold the legal details."
+      - "Aenean vel augue arcu."
+      - "Sed id blandit sapien, non commodo nulla."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Founding Documents"
+      link: "https://www.ietf.org"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "How to Reach Us?"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "We welcome your feedback. You may contact the Trustees at trustees@ietf.org. Please see our About Us page for more details."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Aliquam ornare ac erat eu venenatis."
+      - "Etiam venenatis dolor at velit pretium fermentum."
+      - "Pellentesque interdum purus eu dapibus finibus."
+      - "Nulla non quam imperdiet, tristique dui euismod, ullamcorper erat."
     button:
       enable: false
       label: ""
