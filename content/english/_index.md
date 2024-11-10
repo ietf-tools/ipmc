@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Welcome to the IETF Trust"
-  content: "The Trust was created by the [Internet Society](http://www.isoc.org/) and the [Corporation for National Research Initiatives](http://www.cnri.reston.va.us/) as settlors, the Internet Engineering Task Force and the Initial Trustees on December 15, 2005."
+  content: "The Trust was created by the [**Internet Society**](http://www.isoc.org/) and the [**Corporation for National Research Initiatives**](http://www.cnri.reston.va.us/) as settlors, the [**Internet Engineering Task Force**](https://www.ietf.org) and the Initial Trustees on December 15, 2005."
   image: "/images/undraw_engineering_team_a7n2.svg"
   button:
     enable: true
