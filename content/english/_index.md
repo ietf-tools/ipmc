@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Learn more"
-    link: "https://www.ietf.org"
+    link: "/about"
 
 # Features
 features:

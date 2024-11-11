@@ -6,44 +6,61 @@ name = "Home"
 url = "/"
 weight = 1
 
+# about
 [[main]]
 name = "About"
 url = "/about"
 weight = 2
 
 [[main]]
+parent = "About"
+name = "About the IETF Trust"
+url = "/about"
+
+[[main]]
+parent = "About"
+name = "Announcements"
+url = "/announcements"
+
+[[main]]
+parent = "About"
+name = "Trustees"
+url = "/about/trustees"
+
+# assets
+[[main]]
 weight = 3
-name = "Pages"
+name = "Assets"
 
 [[main]]
-parent = "Pages"
-name = "Blog"
-url = "/blog"
-
-[[main]]
-parent = "Pages"
+parent = "Assets"
 name = "Contact"
 url = "/contact"
 
 [[main]]
-parent = "Pages"
+parent = "Assets"
 name = "Authors"
 url = "/authors"
 
 [[main]]
-parent = "Pages"
+parent = "Assets"
 name = "Categories"
 url = "/categories"
 
 [[main]]
-parent = "Pages"
+parent = "Assets"
 name = "404 Page"
 url = "/404"
 
+# documents
 [[main]]
+weight = 4
+name = "Documents"
+
+[[main]]
+parent = "Documents"
 name = "Elements"
 url = "/elements"
-weight = 4
 
 
 # footer menu
