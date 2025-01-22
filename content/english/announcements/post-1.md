@@ -1,23 +1,24 @@
 ---
-title: "How to build an Application with modern Technology"
+title: "Three new policies"
 meta_title: ""
-description: "this is meta description"
-date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
-author: "John Doe"
-tags: ["nextjs", "tailwind"]
+description: "three new policies"
+date: 2025-01-04T05:00:00Z
+categories: ["Policies"]
+author: "IETF IPMC"
+tags: ["policies"]
 draft: false
 ---
 
-Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+At the IPMC board meeting on January 8, 2025, three new policies were adopted. More information on these policies can be found on the Policies page. 
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Conflict of Interest 
 
-## Creative Design
+The Conflict of Interest policy details conflict of interest guidelines for the IPMC Board of Directors.
 
-Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
+## Standards of Conduct
 
-> Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+The Standards of Conduct policy describes how those who take part in IPMC work should act.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
+## Administrative Procedures
+
+Some simple administrative procedures lay out how the IPMC will administer itself. Further detail can also be found in the Bylaws.
