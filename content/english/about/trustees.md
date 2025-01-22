@@ -1,12 +1,12 @@
 ---
-title: "Trustees"
+title: "IPMC Board of Directors"
 description: "this is meta description"
 draft: false
 ---
 
-Five IETF Trustees are selected by the NomCom, the IESG, and the ISOC Board of Trustees. See [RFC 8714](https://tools.ietf.org/html/rfc8714) for more detailed information about how these appointments work.
+Five IETF IPMC Directors (previously known as Trustees) are selected by the NomCom, the IESG, and the ISOC Board of Trustees. See [RFC 8714](https://tools.ietf.org/html/rfc8714) for more detailed information about how these appointments work.
 
-### Current Trustees
+### Current Directors
 
 **Kristin Berdan**  
 Term: 2024-2026  
@@ -30,58 +30,3 @@ Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/FN98C
 Term: 2024-2027  
 Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/QkoQCwiSbsD5EpjInm0B-ytpDRI/) *(3 year term)*
 
-### Past Trustees
-
-##### July 2022 – March 2024
-
-- Glenn Deen
-- Joel Halpern
-- Victor Kuarsingh
-- Kathleen Moriarty
-- Stephan Wenger
-
-##### March 2019 – July 2022
-
-- Glenn Deen
-- Joel Halpern
-- John Levine
-- Kathleen Moriarty
-- Stephan Wenger
-
-##### March 2018 – March 2019
-
-- Louis Berger
-- Kathy Brown
-- Alissa Cooper
-- Glenn Deen
-- Ted Hardie
-- John Levine
-- Kaveh Ranjbar, **Chair**
-- Andrew Sullivan
-- Portia Wenze-Danley
-
-##### March 2017 – March 2018
-
-- Louis Berger
-- Alissa Cooper
-- Kathy Brown
-- Leslie Daigle
-- Tobias Gondrom
-- Ted Hardie
-- John Levine
-- Ray Pelletier *(retired October 31, 2017)*
-- Kaveh Ranjbar, **Chair**
-- Portia Wenze-Danley *(effective November 1, 2017)*
-
-##### April 2016 – March 2017
-
-- Jari Arkko
-- Louis Berger
-- Scott Bradner *(tenure ended 19 June, 2016)*
-- Kathy Brown
-- Leslie Daigle
-- Tobias Gondrom, **Chair**
-- John Levine *(effective 20 June, 2016)*
-- Ray Pelletier
-- Benson Schliesser
-- Andrew Sullivan
