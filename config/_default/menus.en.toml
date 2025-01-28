@@ -24,8 +24,8 @@ url = "/announcements"
 
 [[main]]
 parent = "About"
-name = "Trustees"
-url = "/about/trustees"
+name = "Board of Directors"
+url = "/about/board"
 
 # assets
 [[main]]
