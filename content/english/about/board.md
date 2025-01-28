@@ -37,5 +37,5 @@ Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/QkoQC
 
 **Wendy Seltzer**
 Term: 2025-2028
-Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/0MOtcjEcX0sh8zFhi4SRfOg1u-8/)
+Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/0MOtcjEcX0sh8zFhi4SRfOg1u-8/) *(3 year term)*
 Will begin term in March 2025 at IETF 122 meeting.
