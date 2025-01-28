@@ -1,6 +1,6 @@
 ---
 title: "IPMC Board of Directors"
-description: "this is meta description"
+description: "Information about the IPMC Board of Directors"
 draft: false
 ---
 
@@ -10,6 +10,7 @@ Five IETF IPMC Directors (previously known as Trustees) are selected by the NomC
 
 **Kristin Berdan**  
 Term: 2024-2026  
+Position: Secretary
 Appointed By: [IESG](https://mailarchive.ietf.org/arch/msg/ietf-announce/frCOSmyP78jmz_4nFnnUHqU439o/) *(2 year term)*
 
 **Glenn Deen**  
@@ -30,3 +31,11 @@ Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/FN98C
 Term: 2024-2027  
 Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/QkoQCwiSbsD5EpjInm0B-ytpDRI/) *(3 year term)*
 
+---
+
+### Incoming Directors
+
+**Wendy Seltzer**
+Term: 2025-2028
+Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/0MOtcjEcX0sh8zFhi4SRfOg1u-8/)
+Will begin term in March 2025 at IETF 122 meeting.
