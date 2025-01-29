@@ -8,7 +8,7 @@ The IETF IPMC publishes monthly financial statements, yearly budgets, and requir
 
 ## 2025
 
-[Open PDF](/images/IETF IPMC Budget 2025-public version.pdf)
+[2025 Budget](/images/ipmc-budget-2025.pdf)
 
 Monthly statements:  
 January 2025  
@@ -16,7 +16,7 @@ February 2025
 
 ## 2024
 
-2024 Budget Forecast
+2024 Budget
 
 Monthly statements:  
 January 2024  
@@ -34,7 +34,7 @@ December 2024
 
 ## 2023
 
-2023 Budget Forecast
+2023 Budget
 
 Monthly statements:  
 
