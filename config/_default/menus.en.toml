@@ -27,6 +27,16 @@ parent = "About"
 name = "Board of Directors"
 url = "/about/board"
 
+[[main]]
+parent = "About"
+name = "Financials"
+url = "/about/financials"
+
+[[main]]
+parent = "About"
+name = "Board Meeting Minutes"
+url = "/about/minutes"
+
 # assets
 [[main]]
 weight = 3
