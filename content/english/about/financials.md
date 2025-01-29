@@ -36,8 +36,6 @@ Monthly statements:
 
 [2023 Budget](/uploads/ipmc-budget-2023.pdf)  
 
-Monthly statements:  
-
 Monthly statements began in April 2023.  
 [April 2023](/uploads/2023-04-ipmc-stmt.pdf)     
 [May 2023](/uploads/2023-05-ipmc-stmt.pdf)       
@@ -52,5 +50,4 @@ Monthly statements began in April 2023.
 ## Form 990
 
 2024 Form 990  
-2023 Form 990  
-2022 Form 990  
+
