@@ -1,4 +1,4 @@
-############# English navigation ##############
+P############# English navigation ##############
 
 # main menu
 [[main]]
@@ -14,7 +14,7 @@ weight = 2
 
 [[main]]
 parent = "About"
-name = "About the IETF Trust"
+name = "About the IPMC"
 url = "/about"
 
 [[main]]
