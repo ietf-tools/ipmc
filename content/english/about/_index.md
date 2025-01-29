@@ -1,6 +1,6 @@
 ---
-title: "About the IETF Trust"
-meta_title: "About the IETF Trust"
+title: "About the IETF IPMC"
+meta_title: "About the IETF IPMC"
 description: "this is meta description"
 image: "/images/undraw_abstract_re_l9xy.svg"
 draft: false
