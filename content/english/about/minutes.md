@@ -1,6 +1,6 @@
 ---
-title: "Financials"
-description: "Information about the IPMC Financials"
+title: "Board Meeting Minutes"
+description: "Meeting Minutes of the IPMC Board of Directors"
 draft: false
 ---
 
