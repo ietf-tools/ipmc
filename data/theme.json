@@ -33,7 +33,7 @@
     "font_family": {
       "primary": "Inter",
       "primary_type": "sans-serif",
-      "secondary": "Signika:wght@500;700",
+      "secondary": "Inter",
       "secondary_type": "sans-serif"
     },
     "font_size": {
