@@ -29,18 +29,25 @@ url = "/about/board"
 
 [[main]]
 parent = "About"
-name = "Financials"
-url = "/about/financials"
-
-[[main]]
-parent = "About"
 name = "Board Meeting Minutes"
 url = "/about/minutes"
 
-# assets
+[[main]]
+parent = "About"
+name = "Financials"
+url = "/about/financials"
+
+# faq
 [[main]]
 weight = 3
-name = "Assets"
+name = "Frequently Asked Questions"
+url = "/faq"
+
+# tlp
+[[main]]
+weight = 4
+name = "Trust Legal Provisions"
+url = "/tlp"
 
 [[main]]
 parent = "Assets"
@@ -64,7 +71,7 @@ url = "/404"
 
 # documents
 [[main]]
-weight = 4
+weight = 5
 name = "Documents"
 
 [[main]]
@@ -80,11 +87,21 @@ url = "/about"
 weight = 1
 
 [[footer]]
-name = "Elements"
-url = "/elements"
+name = "IETF.org"
+url = "https://www.ietf.org"
 weight = 2
 
 [[footer]]
-name = "Privacy Policy"
-url = "/privacy-policy"
+name = "Contact"
+url = "/about"
 weight = 3
+
+[[footer]]
+name = "IETF Trust Archive"
+url = "https://trustee.ietf.org"
+weight = 4
+
+[[footer]]
+name = "IANA"
+url = "https://www.iana.org/"
+weight = 5
