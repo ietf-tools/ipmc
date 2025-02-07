@@ -49,35 +49,58 @@ weight = 4
 name = "Trust Legal Provisions"
 url = "/tlp"
 
-[[main]]
-parent = "Assets"
-name = "Contact"
-url = "/contact"
-
-[[main]]
-parent = "Assets"
-name = "Authors"
-url = "/authors"
-
-[[main]]
-parent = "Assets"
-name = "Categories"
-url = "/categories"
-
-[[main]]
-parent = "Assets"
-name = "404 Page"
-url = "/404"
-
-# documents
+# holdings
 [[main]]
 weight = 5
-name = "Documents"
+name = "Holdings"
+url = "/holdings"
 
 [[main]]
-parent = "Documents"
-name = "Elements"
-url = "/elements"
+parent = "Holdings"
+name = "Asset register"
+url = "/assets"
+
+[[main]]
+parent = "Holdings"
+name = "IANA information"
+url = "/iana"
+
+[[main]]
+parent = "Holdings"
+name = "Trademarks & Logos"
+url = "/trademarks"
+
+
+# administration
+[[main]]
+weight = 6
+name = "Administration"
+
+[[main]]
+parent = "Administration"
+name = "Board of Directors"
+url = "/administration/board"
+
+[[main]]
+parent = "Administration"
+name = "Board Meeting Minutes"
+url = "/administration/minutes"
+
+[[main]]
+parent = "Administration"
+name = "Financials"
+url = "/administration/financials"
+
+[[main]]
+parent = "Administration"
+name = "Policies"
+url = "/administration/policies"
+
+[[main]]
+parent = "Administration"
+name = "Appeals"
+url = "/administration/appeals"
+
 
 
 # footer menu
