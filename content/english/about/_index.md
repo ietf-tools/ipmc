@@ -2,11 +2,11 @@
 title: "About the IETF IPMC"
 meta_title: "About the IETF IPMC"
 description: "this is meta description"
-image: "/images/undraw_abstract_re_l9xy.svg"
+image: false
 draft: false
 ---
 
-A trust is a private legal construct *(in this case established under the laws of Virginia, USA)* allowing assets *(in this case, intellectual property rights and other property)* to be held and administered for specific purposes *(in this case, for the benefit of the IETF and hence the Internet standards process)*. A Trust is normally managed by a set of Trustees who are obliged to follow the terms of the Trust Agreement.
+Here's where we put some more infomrmation about what the  IPMC is.
 
 The IETF Trust was formed in 2005. See [BCP 78](https://www.rfc-editor.org/info/bcp78) and [BCP 101](https://www.rfc-editor.org/info/bcp101) for more details on how and why it was created.
 
