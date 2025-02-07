@@ -6,4 +6,10 @@ draft: false
 
 
 
-Here's where we put this
+Here's where we put the FAQs. 
+
+They're going to be in sections like this:
+
+1. [IETF Logo & Acronym](/faq/logo.md)
+2. Reproducing RFCs
+3. etc
