@@ -1,15 +1,9 @@
 ---
-# Banner
-banner:
-  title: "Welcome to the IETF IPMC"
-  content: "Hi, this is the IPMC home page and it needs some more content."
-  image: 
-  button:
-    enable: false
-    label: "Learn more"
-    link: "/about"
-
-
-
- 
+title: "IETF IPMC"
+description: "About the IETF IPMC"
+draft: false
 ---
+
+# Welcome to the IETF IPMC
+
+Here's where we briefly say what the IPMC is
