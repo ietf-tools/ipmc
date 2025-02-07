@@ -1,12 +1,10 @@
 #################### default parameters ############################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "static/IETF IPMC Vert@2x 1.png"
+favicon = "static/IETF IPMC Vert.pdf"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "static/IETF IPMC Vert@2x 1.png"
+logo = "static/IETF IPMC Vert.pdf"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "100px"
-logo_height = "100px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
