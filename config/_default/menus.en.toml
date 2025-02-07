@@ -9,7 +9,7 @@ weight = 1
 # about
 [[main]]
 name = "About"
-url = "/about"
+url = "/about/_index.md"
 weight = 2
 
 [[main]]
