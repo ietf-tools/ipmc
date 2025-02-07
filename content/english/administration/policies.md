@@ -6,3 +6,5 @@ draft: false
 
 
 Here's a list of the policies and procedures
+
+[Conflict of Interest Policy](/administration/policies/conflict-of-interest.md), adopted 2025-01-08
