@@ -25,21 +25,26 @@ url = "/announcements"
 # faq
 [[main]]
 weight = 3
+name = "FAQ"
+url = "/faq"
+
+[[main]]
+parent = "FAQ"
 name = "Frequently Asked Questions"
 url = "/faq"
 
 [[main]]
-parent = "Frequently Asked Questions"
+parent = "FAQ"
 name = "IETF Logo & Acronym"
 url = "/faq/logofaq"
 
 [[main]]
-parent = "Frequently Asked Questions"
+parent = "FAQ"
 name = "Reproducing RFCs"
 url = "/faq/rfcs"
 
 [[main]]
-parent = "Frequently Asked Questions"
+parent = "FAQ"
 name = "Copyright"
 url = "/faq/copyright"
 
