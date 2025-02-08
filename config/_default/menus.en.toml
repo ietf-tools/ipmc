@@ -29,17 +29,17 @@ name = "Frequently Asked Questions"
 url = "/faq"
 
 [[main]]
-parent = "faq"
+parent = "Frequently Asked Questions"
 name = "IETF Logo & Acronym"
 url = "/faq/logofaq"
 
 [[main]]
-parent = "faq"
+parent = "Frequently Asked Questions"
 name = "Reproducing RFCs"
 url = "/faq/rfcs"
 
 [[main]]
-parent = "faq"
+parent = "Frequently Asked Questions"
 name = "Copyright"
 url = "/faq/copyright"
 
