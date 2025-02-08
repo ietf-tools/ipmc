@@ -28,6 +28,21 @@ weight = 3
 name = "Frequently Asked Questions"
 url = "/faq"
 
+[[main]]
+parent = "faq"
+name = "IETF Logo & Acronym"
+url = "/faq/logofaq"
+
+[[main]]
+parent = "faq"
+name = "Reproducing RFCs"
+url = "/faq/rfcs"
+
+[[main]]
+parent = "faq"
+name = "Copyright"
+url = "/faq/copyright"
+
 # tlp
 [[main]]
 weight = 4
