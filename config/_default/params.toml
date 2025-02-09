@@ -1,8 +1,8 @@
 #################### default parameters ############################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "static/IETF IPMC Vert@2x 1.png"
+favicon = "image/logo.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "static/IETF IPMC Vert@2x 1.png"
+logo = "image/logo.png"
 logo_width = "100px"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
