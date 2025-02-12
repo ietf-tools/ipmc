@@ -4,13 +4,13 @@
 [[main]]
 name = "Home"
 url = "/"
-weight = 1
+weight = 10
 
 # about
 [[main]]
 name = "About"
 url = "/about"
-weight = 2
+weight = 20
 
 [[main]]
 parent = "About"
@@ -24,7 +24,7 @@ url = "/announcements"
 
 # faq
 [[main]]
-weight = 3
+weight = 30
 name = "FAQ"
 url = "/faq"
 
@@ -54,13 +54,13 @@ weight = 4
 
 # tlp
 [[main]]
-weight = 4
+weight = 40
 name = "Technical Legal Provisions"
 url = "/tlp"
 
 # holdings
 [[main]]
-weight = 5
+weight = 50
 name = "Holdings"
 url = "/holdings"
 
@@ -82,7 +82,7 @@ url = "/trademarks"
 
 # administration
 [[main]]
-weight = 6
+weight = 60
 name = "Administration"
 
 [[main]]
