@@ -42,6 +42,24 @@ name = "Copyright"
 url = "/faq/copyright"
 weight = 4
 
+[[main]]
+parent = "FAQ"
+name = "Rights Relating to Code"
+url = "/faq/code"
+weight = 5
+
+[[main]]
+parent = "FAQ"
+name = "Treatment of Alternate Stream Documents"
+url = "/faq/streams"
+weight = 6
+
+[[main]]
+parent = "FAQ"
+name = "TLP Modification of 2009"
+url = "/faq/2009tlp"
+weight = 7
+
 # tlp
 [[main]]
 weight = 4
