@@ -28,47 +28,47 @@ url = "/faq"
 parent = "FAQ"
 name = "IETF Logo & Acronym"
 url = "/faq/logofaq"
-weight = 2
+weight = 4
 
 [[main]]
 parent = "FAQ"
 name = "Reproducing RFCs"
 url = "/faq/rfcs"
-weight = 3
+weight = 5
 
 [[main]]
 parent = "FAQ"
 name = "Copyright"
 url = "/faq/copyright"
-weight = 4
+weight = 6
 
 [[main]]
 parent = "FAQ"
 name = "Rights Relating to Code"
 url = "/faq/code"
-weight = 5
+weight = 7
 
 [[main]]
 parent = "FAQ"
 name = "Treatment of Alternate Stream Documents"
 url = "/faq/streams"
-weight = 6
+weight = 8
 
 [[main]]
 parent = "FAQ"
 name = "TLP Modification of 2009"
 url = "/faq/2009tlp"
-weight = 7
+weight = 9
 
 # tlp
 [[main]]
-weight = 4
+weight = 40
 name = "Technical Legal Provisions"
 url = "/tlp"
 
 # holdings
 [[main]]
-weight = 5
+weight = 50
 name = "Holdings"
 url = "/holdings"
 
@@ -90,7 +90,7 @@ url = "/trademarks"
 
 # administration
 [[main]]
-weight = 6
+weight = 60
 name = "Administration"
 
 [[main]]
