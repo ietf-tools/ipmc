@@ -55,7 +55,7 @@ weight = 4
 # tlp
 [[main]]
 weight = 4
-name = "Trust Legal Provisions"
+name = "Technical Legal Provisions"
 url = "/tlp"
 
 # holdings
