@@ -14,11 +14,6 @@ weight = 2
 
 [[main]]
 parent = "About"
-name = "About the IPMC"
-url = "/about"
-
-[[main]]
-parent = "About"
 name = "Announcements"
 url = "/announcements"
 
@@ -28,11 +23,6 @@ weight = 3
 name = "FAQ"
 url = "/faq"
 
-[[main]]
-parent = "FAQ"
-name = "Frequently Asked Questions"
-url = "/faq"
-weight = 1
 
 [[main]]
 parent = "FAQ"
