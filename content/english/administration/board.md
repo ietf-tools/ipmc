@@ -22,14 +22,14 @@ Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/PxcaD
 Term: 2022-2024, 2024-2026  
 Appointed By: [ISOC Board of Trustees](https://www.internetsociety.org/board-of-trustees/minutes/181/) *(2 year term)*
 
-**Kathleen Moriarty**  
-Term:  2019- 2022, 2022-2025  
-Position: Treasurer  
-Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/FN98CFV-FL2zNjI6623J2M_EoKo/) *(3 year term)*
-
 **Jon Peterson**  
 Term: 2024-2027  
 Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/QkoQCwiSbsD5EpjInm0B-ytpDRI/) *(3 year term)*
+
+**Wendy Seltzer**  
+Term:  2025-2028  
+Position: Treasurer  
+Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/0MOtcjEcX0sh8zFhi4SRfOg1u-8/) *(3 year term)*
 
 ---
 
