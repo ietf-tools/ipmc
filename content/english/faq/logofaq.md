@@ -1,7 +1,7 @@
 ---
 title: "FAQ: IETF Logo & Acronym"
 description: "FAQ: IETF Logo & Acronym"
-draft: false
+draft: true
 ---
 
 
