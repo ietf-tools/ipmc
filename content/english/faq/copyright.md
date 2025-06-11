@@ -1,7 +1,7 @@
 ---
 title: "FAQ: Copyrights"
 description: "FAQ: Copyrights"
-draft: false
+draft: true
 ---
 
 *this combined three sections of the previous FAQ that seemed duplicative (Copyright and IETF Copyright Policies, IETF Copyright Licenses, Copyright and Other Notices in IETF Documents), but can be changed*
