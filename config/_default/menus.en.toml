@@ -29,25 +29,6 @@ name = "FAQ"
 url = "/faq"
 
 
-
-[[main]]
-parent = "FAQ"
-name = "IETF Logo & Acronym"
-url = "/faq/logofaq"
-weight = 2
-
-[[main]]
-parent = "FAQ"
-name = "Reproducing RFCs"
-url = "/faq/rfcs"
-weight = 3
-
-[[main]]
-parent = "FAQ"
-name = "Copyright"
-url = "/faq/copyright"
-weight = 4
-
 # tlp
 [[main]]
 weight = 40
