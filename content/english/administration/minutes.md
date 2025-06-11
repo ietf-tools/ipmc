@@ -1,7 +1,7 @@
 ---
 title: "Board Meeting Minutes"
 description: "Meeting Minutes of the IPMC Board of Directors"
-draft: true
+draft: false
 ---
 
 The IETF IPMC Board of Directors generally meets monthly, including during each IETF meeting. Meeting minutes are published here. 
