@@ -1,7 +1,7 @@
 ---
 title: "FAQ: Rights Relating to Code"
 description: "Rights Relating to Code"
-draft: false
+draft: true
 ---
 
 **1. Can I use code that is included in IETF Documents in my software?**  
