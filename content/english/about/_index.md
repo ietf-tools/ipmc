@@ -1,20 +1,18 @@
 ---
 title: "About the IETF IPMC"
 meta_title: "About the IETF IPMC"
-description: "this is meta description"
+description: "About the IETF IPMC"
 image: false
 draft: false
 ---
 
-Here's where we put some more infomrmation about what the  IPMC is.
+The IETF Intellectual Property Management Corporation was created in 2023. For information on its predecessor organization, visit the [IETF Trust website](https://trustee.ietf.org) archive.
 
-The IETF Trust was formed in 2005. See [BCP 78](https://www.rfc-editor.org/info/bcp78) and [BCP 101](https://www.rfc-editor.org/info/bcp101) for more details on how and why it was created.
-
-#### Here's how to contact the Trustees:
+#### Here's how to contact the IPMC:
 
 [trustees@ietf.org](mailto:trustees@ietf.org)
 
-**IETF Trust**  
+**IETF IPMC**  
 c/o AMS  
 39221 Paseo Padre Pkwy, Suite J  
 Fremont, CA 94538
