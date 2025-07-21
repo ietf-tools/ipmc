@@ -35,27 +35,6 @@ weight = 40
 name = "Technical Legal Provisions"
 url = "/tlp"
 
-# holdings
-[[main]]
-weight = 50
-name = "Holdings"
-url = "/holdings"
-
-[[main]]
-parent = "Holdings"
-name = "Asset register"
-url = "/assets"
-
-[[main]]
-parent = "Holdings"
-name = "IANA information"
-url = "/iana"
-
-[[main]]
-parent = "Holdings"
-name = "Trademarks & Logos"
-url = "/trademarks"
-
 
 # administration
 [[main]]
@@ -81,11 +60,6 @@ url = "/administration/financials"
 parent = "Administration"
 name = "Policies"
 url = "/administration/policies"
-
-[[main]]
-parent = "Administration"
-name = "Appeals"
-url = "/administration/appeals"
 
 
 
