@@ -13,7 +13,7 @@ At the IPMC board meeting on January 8, 2025, three new policies were adopted. M
 
 ## Conflict of Interest 
 
-The Conflict of Interest policy details conflict of interest guidelines for the IPMC Board of Directors.
+The [Conflict of Interest policy](policies/conflict.md) details conflict of interest guidelines for the IPMC Board of Directors.
 
 ## Standards of Conduct
 
