@@ -1,7 +1,7 @@
 ---
 title: "Technical Legal Provisions"
 description: "TLP"
-draft: true
+draft: false
 ---
 
 # Technical Legal Provisions
