@@ -2,10 +2,10 @@
 # Banner
 banner:
   title: "Welcome to the IETF IPMC"
-  content: "Hi this is the IPMC home page"
+  content: "Welcome to the IETF Intellectual Property Management Corporation website."
   image: false
   button:
-    enable: true
+    enable: false
     label: "Learn more"
     link: "/about"
 
@@ -15,4 +15,4 @@ banner:
 ---
 
 
-Hi here's some info
+
