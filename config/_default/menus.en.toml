@@ -17,10 +17,6 @@ parent = "About"
 name = "About the IPMC"
 url = "/about"
 
-[[main]]
-parent = "About"
-name = "Announcements"
-url = "/announcements"
 
 
 
