@@ -6,4 +6,4 @@ draft: false
 
 # Technical Legal Provisions
 
-This is where the TLP 6 will go
+<embed src="/uploads/tlp6.pdf" width="100%" height="600px" type="application/pdf">
