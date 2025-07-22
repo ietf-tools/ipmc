@@ -6,7 +6,7 @@ date: 2025-01-04T05:00:00Z
 categories: ["Policies"]
 author: "IETF IPMC"
 tags: ["policies"]
-draft: false
+draft: true
 ---
 
 At the IPMC board meeting on January 8, 2025, three new policies were adopted. More information on these policies can be found on the Policies page. 
