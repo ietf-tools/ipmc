@@ -16,6 +16,7 @@ Monthly statements:
 [March 2025](/uploads/Mar2025-IETF-IPMC-Stmt.pdf)  
 [April 2025](/uploads/Apr2025-IETF-IPMC-Stmt.pdf)  
 May 2025  
+June 2025  
 
 ## 2024
 
