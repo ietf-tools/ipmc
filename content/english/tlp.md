@@ -12,11 +12,11 @@ This page will be updated when the formal call for comments is made. Comments wi
 
 The draft replacement for the IETF Trust License Provisions for the IETF stream is:
 
-[IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JUNE-22-2025](/uploads/IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JUNE-22-2025.pdf)
+* [IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JUNE-22-2025](/uploads/IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JUNE-22-2025.pdf)
 
 The draft new TLP 6.0 versions for each stream are:
 
-TBD
+* TBD
 
 
 
