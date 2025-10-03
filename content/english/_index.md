@@ -1,4 +1,3 @@
-
 ---
 title: "IETF IPMC"
 description: "Welcome to the IETF IPMC"
