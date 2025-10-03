@@ -1,10 +1,9 @@
 ---
 title: "Notice of Proposed Amendment to IETF IPMC Bylaws"
 meta_title: ""
-description: "Notice of Proposed Amendment to IETF IPMC Bylaws"
+description: " "
 date: 2025-10-03T05:00:00Z
 image: false
-categories: false
 author: "IPMC"
 tags: ["announcement", "bylaws"]
 draft: false
