@@ -9,8 +9,6 @@ tags: ["announcement", "bylaws"]
 draft: false
 ---
 
-# Notice of Proposed Amendment to IETF IPMC Bylaws
-
 The IETF Intellectual Property Management Corporation (IPMC) Directors are considering adopting a proposed set of amendments to the IETF IPMC bylaws.    
 
 As required by the IETF IPMC bylaws, these amendments are undergoing a 60 day notice following the requirements of the current IETF IPMC bylaws “Article XII Amendments” before the IETF IPMC Directors can vote to adopt any proposed amendments.
@@ -19,18 +17,18 @@ This 60-day notice is being sent to bodies that appoint the 5 IETF IPMC Director
 
 The proposed amended bylaws, dated October 2 2025, have been published by the IPMC in both redline and in clean version along with the current active IPMC bylaws on the IPMC web site (https://www.ietf-ipm.org/)
 
-# Summary of Proposed Amendments:
+## Summary of Proposed Amendments:
 
-## The Proposed Amendments cover three purposes:
+### The Proposed Amendments cover three purposes:
 
-## 1. Final Corporate Name
+### 1. Final Corporate Name
 Update the corporation’s name in the bylaws to reflect the final approved name of the organization.  At the time of original filing the bylaws, continuing to use IETF Trust as the corporate name had been approved by the State of Delaware, but this was later reversed resulting in the final name choice being the IETF Intellectual Property Management Corporation.  
 
 1. All uses of the name IETF Trust as the organization name in the bylaws have been changed to IETF Intellectual Property Management Corporation or IETF IPMC, reflecting the final registered name of the IETF Trust’s successor.
 
 2. The term Trustee has been changed to Director.
 
-## 2. ARTICLE Re-Numbering & Internal Cross-Reference Validation
+### 2. ARTICLE Re-Numbering & Internal Cross-Reference Validation
 
 Correcting a misnumbering of Article sections in the late half of the bylaws and internal cross reference citations, which are believed to have occurred due to import and export across document formats (DOCX/Google Docs) and interactions with automated numbering along with manual fix-ups during formatting.   All Articles and citations have been reviewed and revalidated, correcting as appropriate. 
 
@@ -38,7 +36,7 @@ Correcting a misnumbering of Article sections in the late half of the bylaws and
 
 4. Related to the renumbering of Articles and automated numbers, all cross references and citations in the bylaws to Sections and Articles have been reviewed, validated and corrected as appropriate.
 
-## 3. NEW language specific to the IANA IPR held by the IETF Trust
+### 3. NEW language specific to the IANA IPR held by the IETF Trust
 
 In addition to the IETF IP Assets held by the IETF Trust, the IETF Trust also holds Trademarks and DNS Domain name IP Assets for the IANA.   These assets were transferred to the IETF Trust under a set of agreements [3] (https://trustee.ietf.org/iana-ipr/) between the IETF Trust and the Protocols, Names and Numbers communities and ICANN in 2016.   
 
