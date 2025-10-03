@@ -7,7 +7,7 @@ image: false
 categories: false
 author: "IPMC"
 tags: ["announcement", "bylaws"]
-draft: true
+draft: false
 ---
 
 # Notice of Proposed Amendment to IETF IPMC Bylaws
