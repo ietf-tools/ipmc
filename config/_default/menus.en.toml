@@ -17,7 +17,10 @@ parent = "About"
 name = "About the IPMC"
 url = "/about"
 
-
+[[main]]
+parent = "About"
+name = "Announcements"
+url = "/announcements"
 
 
 # tlp
@@ -79,3 +82,4 @@ weight = 4
 name = "IANA"
 url = "https://www.iana.org/"
 weight = 5
+
