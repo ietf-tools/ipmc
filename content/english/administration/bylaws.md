@@ -14,11 +14,11 @@ This 60-day notice is being sent to bodies that appoint the 5 IETF IPMC Director
 
 The proposed amended bylaws, dated October 2 2025, have been published by the IPMC in both redline and in clean version along with the current active IPMC bylaws on the IPMC web site (https://www.ietf-ipm.org/)
 
-## Summary of Proposed Amendments:
+### Summary of Proposed Amendments:
 
 The Proposed Amendments cover three purposes:
 
-## 1. Final Corporate Name
+### 1. Final Corporate Name
 
 Update the corporation’s name in the bylaws to reflect the final approved name of the organization.  At the time of original filing the bylaws, continuing to use IETF Trust as the corporate name had been approved by the State of Delaware, but this was later reversed resulting in the final name choice being the IETF Intellectual Property Management Corporation.  
 
@@ -26,7 +26,7 @@ Update the corporation’s name in the bylaws to reflect the final approved name
 
 2. The term Trustee has been changed to Director.
 
-## 2. ARTICLE Re-Numbering & Internal Cross-Reference Validation
+### 2. ARTICLE Re-Numbering & Internal Cross-Reference Validation
 
 
 Correcting a misnumbering of Article sections in the late half of the bylaws and internal cross reference citations, which are believed to have occurred due to import and export across document formats (DOCX/Google Docs) and interactions with automated numbering along with manual fix-ups during formatting.   All Articles and citations have been reviewed and revalidated, correcting as appropriate. 
@@ -35,7 +35,7 @@ Correcting a misnumbering of Article sections in the late half of the bylaws and
 
 4. Related to the renumbering of Articles and automated numbers, all cross references and citations in the bylaws to Sections and Articles have been reviewed, validated and corrected as appropriate.
 
-## 3. NEW language specific to the IANA IPR held by the IETF Trust
+### 3. NEW language specific to the IANA IPR held by the IETF Trust
 
 In addition to the IETF IP Assets held by the IETF Trust, the IETF Trust also holds Trademarks and DNS Domain name IP Assets for the IANA.   These assets were transferred to the IETF Trust under a set of agreements [3] (https://trustee.ietf.org/iana-ipr/) between the IETF Trust and the Protocols, Names and Numbers communities and ICANN in 2016.   
 
@@ -59,7 +59,7 @@ This notice is being sent to the IESG, IAB, IETF NOMCOM, ISOC BoT and to the IET
 
 Given that no structural or organizational changes are being made, this is following the required 60 day notice process and not a broader consultation such as was done around the IETF Trust restructuring.
 
-## Submitting Comments:
+### Submitting Comments:
 
 Concerns or objections to adopting any portion of these amendments, should be communicated to the IPMC Directors within the 60 day notice period.  Such comments may be sent directly to the IPMC Directors (trustees@ietf.org) or to the public list TLP-INTEREST@IETF.ORG.
 
