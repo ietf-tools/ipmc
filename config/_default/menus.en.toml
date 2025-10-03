@@ -17,11 +17,6 @@ parent = "About"
 name = "About the IPMC"
 url = "/about"
 
-[[main]]
-parent = "About"
-name = "Announcements"
-url = "/announcements"
-
 
 # tlp
 [[main]]
@@ -55,6 +50,10 @@ parent = "Administration"
 name = "Policies"
 url = "/administration/policies"
 
+[[main]]
+parent = "Bylaws"
+name = "Bylaws"
+url = "/administration/bylaws"
 
 
 # footer menu
@@ -82,4 +81,5 @@ weight = 4
 name = "IANA"
 url = "https://www.iana.org/"
 weight = 5
+
 
