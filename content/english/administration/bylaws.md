@@ -66,9 +66,11 @@ Concerns or objections to adopting any portion of these amendments, should be co
 Helpful Links:
 
 [1] Current IETF IPMC Bylaws
-https://trustee.ietf.org/wp-content/uploads/Bylaws-final.pdf
+https://www.ietf-ipm.org/uploads/IPMC-bylaws.pdf
 
 [2] Proposed Amended IPMC Bylaw drafts
+Redline version: https://www.ietf-ipm.org/uploads/Oct25_Proposed Amended Bylaws - REDLINE.pdf
+Clean copy: https://www.ietf-ipm.org/uploads/Oct25_Proposed Amended Bylaws - CLEAN.pdf
 
 [3] IANA IPR Agreements from 2016 with IETF Trust
 https://trustee.ietf.org/iana-ipr/
@@ -77,9 +79,5 @@ https://trustee.ietf.org/iana-ipr/
 https://trustee.ietf.org/wp-content/uploads/Community-Agreement-2016-09-30-Executed.pdf
 
 
-
-This is also being announced on the IETF IPMC web site https://www.ietf-ipm.org/
---- 
-
   
-Comments may be directed to TLP-Interest@ietf.org.
+Comments may be directed to [TLP-Interest@ietf.org](mailto:TLP-Interest@ietf.org).
