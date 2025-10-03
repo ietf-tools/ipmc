@@ -51,7 +51,7 @@ name = "Policies"
 url = "/administration/policies"
 
 [[main]]
-parent = "Bylaws"
+parent = "Administration"
 name = "Bylaws"
 url = "/administration/bylaws"
 
@@ -81,5 +81,6 @@ weight = 4
 name = "IANA"
 url = "https://www.iana.org/"
 weight = 5
+
 
 
