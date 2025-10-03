@@ -69,8 +69,8 @@ Helpful Links:
 https://www.ietf-ipm.org/uploads/IPMC-bylaws.pdf
 
 [2] Proposed Amended IPMC Bylaw drafts  
-Redline version: https://www.ietf-ipm.org/uploads/Oct25_Proposed Amended Bylaws - REDLINE.pdf  
-Clean copy: https://www.ietf-ipm.org/uploads/Oct25_Proposed Amended Bylaws - CLEAN.pdf
+Redline version: https://www.ietf-ipm.org/uploads/Oct25_Proposed_Amended_Bylaws_REDLINE.pdf
+Clean copy: https://www.ietf-ipm.org/uploads/Oct25_Proposed_Amended_Bylaws_CLEAN.pdf
 
 [3] IANA IPR Agreements from 2016 with IETF Trust
 https://trustee.ietf.org/iana-ipr/
