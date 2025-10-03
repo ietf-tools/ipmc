@@ -1,13 +1,15 @@
 ---
-title: "IETF IPMC"
-description: "Welcome to the IETF IPMC"
-draft: false
+# Banner
+banner:
+  title: "Welcome to the IETF IPMC"
+  content: "Announcement: The IETF Intellectual Property Management Corporation (IPMC) Directors are considering adopting a proposed set of amendments to the IETF IPMC bylaws."
+  image: false
+  button:
+    enable: true
+    label: "More detail on bylaws"
+    link: "/administration/bylaws"
+
+
+
+ 
 ---
-
-
-# Welcome to the IETF Intellectual Property Management Corporation website. 
-
-### Announcement: Notice of Proposed Amendment to IETF IPMC Bylaws
-
-
-The IETF Intellectual Property Management Corporation (IPMC) Directors are considering adopting a proposed set of amendments to the IETF IPMC bylaws. For more details, please visit the [Bylaws](/administration/bylaws) page.
