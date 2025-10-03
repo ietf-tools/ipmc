@@ -5,7 +5,7 @@ banner:
   content: "Welcome to the IETF Intellectual Property Management Corporation website."
   image: false
   button:
-    enable: false
+    enable: true
     label: "Announcement: Proposed Bylaw Changes"
     link: "/bylaws"
 
