@@ -15,12 +15,12 @@ The IETF IPMC publishes monthly financial statements, yearly budgets, and requir
 [2025 Budget](/uploads/ipmc-budget-2025.pdf)
 
 Monthly statements:  
-[January 2025](/uploads/Jan2025-IETF-IPMC-Stmt.pdf)  
-[February 2025](/uploads/Feb2025-IETF-IPMC-Stmt.pdf)  
-[March 2025](/uploads/Mar2025-IETF-IPMC-Stmt.pdf)  
-[April 2025](/uploads/Apr2025-IETF-IPMC-Stmt.pdf)  
-[May 2025](/uploads/2025-05-ipmc-stmt.pdf)   
-[June 2025](/uploads/2025-06-ipmc-stmt.pdf)   
+[January 2025](/uploads/2025-01-ipmc-stmtv2.pdf)   
+[February 2025](/uploads/2025-02-ipmc-stmtv2.pdf)  
+[March 2025](/uploads/2025-03-ipmc-stmtv2.pdf)  
+[April 2025](/uploads/2025-04-ipmc-stmtv2.pdf)  
+[May 2025](/uploads/2025-05-ipmc-stmtv2.pdf)  
+[June 2025](/uploads/2025-06-ipmc-stmtv2.pdf)  
 [July 2025](/uploads/2025-07-ipmc-stmt.pdf)   
 [August 2025](/uploads/2025-08-ipmc-stmt.pdf)   
 
