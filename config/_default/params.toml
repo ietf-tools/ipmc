@@ -64,7 +64,7 @@ keywords = ["ietf", "ipmc"]
 description = "IETF Intellectual Property Management Corporation"
 author = "IETF"
 twitter = "ietf"
-image = "images/og-image.png"
+image = "images/logo.png"
 
 
 # site verifications
