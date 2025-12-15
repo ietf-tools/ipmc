@@ -25,8 +25,7 @@ Each time the bylaws are amended, the various versions will be tracked on this p
   - [Redline copy](/uploads/Bylaws-Proposed-Amendments-2023-REDLINE.pdf)
 - New version approved 2024-01-08
 
-
-[2025 (Proposed) Amended Bylaws](/english/administration/amendment-2025.md)
+[2025 (Proposed) Amended Bylaws]({{< relref "english/administration/amendment-2025.md" >}})
 - Summary of proposed changes published 2025-10-02
 - Proposed new versions published 2025-10-02
   - [Redline copy](/uploads/Oct25_Proposed_Amended_Bylaws_REDLINE.pdf)
