@@ -20,14 +20,14 @@ Each time the bylaws are amended, the various versions will be tracked on this p
 [Original Bylaws](/uploads/IETF-IPMC-Original-bylaws-2022-12-01.pdf)
 - Published 1 December 2022
     
-2023 Amended Bylaws
+[2023 Amended Bylaws](/administration/amendment-2023.md)
 - Summary of proposed changes published 2023-11-08
-  - Redline copy
+  - [Redline copy](/uploads/Bylaws-Proposed-Amendments-2023-REDLINE.pdf)
 - New version approved 2024-01-08
 
 
-2025 (Proposed) Amended Bylaws
+[2025 (Proposed) Amended Bylaws](/administration/amendment-2025.md)
 - Summary of proposed changes published 2025-10-02
 - Proposed new versions published 2025-10-02
-  - Redline copy
-  - Clean copy
+  - [Redline copy](/uploads/Oct25_Proposed_Amended_Bylaws_REDLINE.pdf)
+  - [Clean copy](/uploads/Oct25_Proposed_Amended_Bylaws_CLEAN.pdf)
