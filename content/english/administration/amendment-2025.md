@@ -1,6 +1,6 @@
 ---
-title: "IPMC Bylaws"
-description: "Information about the IPMC Bylaws"
+title: "October 2025 IETF IPMC Bylaw Amendment Proposal"
+description: "October 2025 IETF IPMC Bylaw Amendment Proposal"
 draft: false
 ---
 
