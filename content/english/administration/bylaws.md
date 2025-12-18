@@ -10,10 +10,13 @@ The IETF IPMC was formed in 2022. On this page you can find details of the organ
 ## Founding Documents
 
 [Certificate of Incorporation](/uploads/IETF-IPMC-Certificate-of-Incorporation-2022-12-01.pdf)   
-[Unanimous Written Consent of Directors in Lieu of First Meeting of the Board of Directors](/uploads/IETF-IPMC-Initial-Board-Consent-2022-12-01.pdf)  
-[Current Bylaws](/uploads/IETF-IPMC-Bylaws-2024.pdf)
+[Unanimous Written Consent of Directors in Lieu of First Meeting of the Board of Directors](/uploads/IETF-IPMC-Initial-Board-Consent-2022-12-01.pdf)
 
-## Amendments to the Bylaws
+## Current Bylaws
+
+[Current Bylaws](/uploads/Oct25_Proposed_Amended_Bylaws_CLEAN.pdf)
+
+## Bylaw History
 
 Each time the bylaws are amended, the various versions will be tracked on this page. 
 
