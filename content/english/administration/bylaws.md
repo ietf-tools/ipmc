@@ -33,3 +33,4 @@ Each time the bylaws are amended, the various versions will be tracked on this p
 - Proposed new versions published 2025-10-02
   - [Redline copy](/uploads/Oct25_Proposed_Amended_Bylaws_REDLINE.pdf)
   - [Clean copy](/uploads/Oct25_Proposed_Amended_Bylaws_CLEAN.pdf)
+- New version adopted 2025-12-10
