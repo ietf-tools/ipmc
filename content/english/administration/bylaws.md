@@ -20,7 +20,7 @@ The IETF IPMC was formed in 2022. On this page you can find details of the organ
 
 Each time the bylaws are amended, the various versions will be tracked on this page. 
 
-[Original Bylaws](/uploads/IETF-IPMC-Original-Bylaws.pdf)
+[Original Bylaws](/uploads/IETF-IPMC-Original-bylaws-2022-12-01.pdf)
 - Published 1 December 2022
     
 [2023 Amended Bylaws](https://www.ietf-ipm.org/administration/amendment-2023)
