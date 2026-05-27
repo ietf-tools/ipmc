@@ -10,7 +10,8 @@ The IETF IPMC Board of Directors generally meets monthly, including during each 
 
 [January 14, 2026](/uploads/2026-01-14-board-minutes.pdf)     
 [February 11, 2026](/uploads/2026-02-11-board-minutes.pdf)  
-[March 17, 2026](/uploads/2026-03-17-board-minutes.pdf) 
+[March 17, 2026](/uploads/2026-03-17-board-minutes.pdf)  
+[April 8, 2026](/uploads/2026-04-08-board-minutes.pdf)   
 
 ## 2025
 
