@@ -28,7 +28,7 @@ Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/0MOtc
 **Sean Turner**  
 Term: 2026-2028  
 Position: Treasurer  
-Appointed By: [IESG](https://https://mailarchive.ietf.org/arch/msg/ietf-announce/JuKUnY2ynieaIvPdv5wLoLhdGzg/) *(2 year term)*
+Appointed By: [IESG](https://mailarchive.ietf.org/arch/msg/ietf-announce/JuKUnY2ynieaIvPdv5wLoLhdGzg/) *(2 year term)*
 
 ---
 
