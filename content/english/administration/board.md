@@ -22,7 +22,7 @@ Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/QkoQC
 
 **Wendy Seltzer**  
 Term:  2025-2028  
-Position: Treasurer  
+Position: Chair 
 Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/0MOtcjEcX0sh8zFhi4SRfOg1u-8/) *(3 year term)*
 
 **Sean Turner**  
