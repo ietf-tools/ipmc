@@ -10,7 +10,7 @@ Five IETF IPMC Directors (previously known as Trustees) are selected by the NomC
 
 **Lars Eggert**  
 Term: 2026-2029  
-Appointed By: [NomCom](https://https://mailarchive.ietf.org/arch/msg/ietf/zwClQHj3r1sHf0r0hKOIOW34Ba0/) *(3 year term)*
+Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf/zwClQHj3r1sHf0r0hKOIOW34Ba0/) *(3 year term)*
 
 **Victor Kuarsingh**  
 Term: 2022-2024, 2024-2026  
