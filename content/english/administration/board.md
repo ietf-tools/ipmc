@@ -8,15 +8,9 @@ Five IETF IPMC Directors (previously known as Trustees) are selected by the NomC
 
 ### Current Directors
 
-**Kristin Berdan**  
-Term: 2024-2026  
-Position: Secretary
-Appointed By: [IESG](https://mailarchive.ietf.org/arch/msg/ietf-announce/frCOSmyP78jmz_4nFnnUHqU439o/) *(2 year term)*
-
-**Glenn Deen**  
-Term: 2019, 2020-2023, 2023-2026  
-Position: Chair  
-Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/PxcaDGzIOzpGo1l8yxc_U-jA40M/) *(3 year term)*
+**Lars Eggert**  
+Term: 2026-2029  
+Appointed By: [NomCom](https://https://mailarchive.ietf.org/arch/msg/ietf/zwClQHj3r1sHf0r0hKOIOW34Ba0/) *(3 year term)*
 
 **Victor Kuarsingh**  
 Term: 2022-2024, 2024-2026  
@@ -30,6 +24,11 @@ Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/QkoQC
 Term:  2025-2028  
 Position: Treasurer  
 Appointed By: [NomCom](https://mailarchive.ietf.org/arch/msg/ietf-announce/0MOtcjEcX0sh8zFhi4SRfOg1u-8/) *(3 year term)*
+
+**Sean Turner**  
+Term: 2026-2028  
+Position: Treasurer  
+Appointed By: [IESG](https://https://mailarchive.ietf.org/arch/msg/ietf-announce/JuKUnY2ynieaIvPdv5wLoLhdGzg/) *(2 year term)*
 
 ---
 
