@@ -12,7 +12,9 @@ Comments will be collected using the IETF’s [TLP-INTEREST mailing list](https:
 
 The draft replacement for the IETF Trust License Provisions for the IETF stream is:
 
-* [IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JULY-19-2026](/uploads/IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JULY-19-2026.pdf)
+* Without redlines [IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JULY-19-2026](/uploads/IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JULY-19-2026-clean.pdf)
+* With redlines [IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JULY-19-2026](/uploads/IETF-IPMC-IETF-Technical-License-Provisions-6.0-DRAFT-JULY-19-2026-redlines.pdf)
+
 
 The draft new TLP 6.0 versions for each stream are:
 
