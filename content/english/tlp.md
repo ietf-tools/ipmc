@@ -18,7 +18,10 @@ The draft replacement for the IETF Trust License Provisions for the IETF stream 
 
 The draft new TLP 6.0 versions for each stream are:
 
-* TBD
+* Independent Submissions: [IETF-IPMC-ISE-Technical-Legal-Provisions-6.0-DRAFT-AUGUST-18-2026.pdf](/uploads/IETF-IPMC-ISE-Technical-Legal-Provisions-6.0-DRAFT-AUGUST-18-2026.pdf)
+* Redlined against the proposed TLP 6.0 (July 19 draft), from which it is derived:  IETF-IPMC-ISE-Technical-Legal-Provisions-6.0-DRAFT-AUGUST-18-2026-compare.pdf](/uploads/IETF-IPMC-ISE-Technical-Legal-Provisions-6.0-DRAFT-AUGUST-18-2026-compare.pdf)
+  
+Other Alternate Streams are covered by the general TLP. 
 
 
 
