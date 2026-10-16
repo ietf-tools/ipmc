@@ -17,7 +17,9 @@ Monthly statements:
 [April 2026](/uploads/2026-04-ipmc-stmt.pdf)  
 [May 2026](/uploads/2026-05-ipmc-stmt.pdf)  
 [June 2026](/uploads/2026-06-ipmc-stmt.pdf)   
-[August 2026](/uploads/2026-07-ipmc-stmt.pdf)  
+[July 2026](/uploads/2026-07-ipmc-stmt.pdf)  
+[August 2026](/uploads/2026-08-ipmc-stmt.pdf)  
+[September 2026](/uploads/2026-09-ipmc-stmt.pdf) 
 
 ## 2025
 
