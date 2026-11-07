@@ -1,0 +1,17 @@
+{{/* Overrides the theme's contact layout, which rendered a demo form with no
+     working action. Shows the page's own Markdown content instead. */}}
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+  <section class="section-sm">
+    <div class="container">
+      <div class="row justify-center">
+        <div class="lg:col-10">
+          <div class="content">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
