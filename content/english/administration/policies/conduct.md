@@ -1,6 +1,6 @@
 ---
-title: "IPMC Standards of Conduct Policy "
-description: "IPMC Standards of Conduct Policy "
+title: "IPMC Standards of Conduct Policy"
+description: "IPMC Standards of Conduct Policy"
 draft: false
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "IPMC Conflicts of Interest Policy "
-description: "IPMC Conflicts of Interest Policy "
+title: "IPMC Conflicts of Interest Policy"
+description: "IPMC Conflicts of Interest Policy"
 draft: false
 ---
 
@@ -13,7 +13,7 @@ This Conflicts of Interest Policy for the IETF Intellectual Property Management 
 
 ### II. Conflict of Interest  
 
-A conflict of interest may exist when the interests or concerns of a Directormay be seen, whether in fact or in appearance, as competing with the interests or concerns of the IPMC. A conflict of interest may also exist where a “Relative” or “Affiliated Entity” may be seen to have interests competing with the interests or concerns of the IPMC. A Relative includes a Director’s spouse, ancestors, siblings, children, grandchildren, great grandchildren, and their spouses. An Affiliated Entity is any corporation or business of which the Director is a director, officer, partner, owner, or otherwise has a business interest. There are a variety of situations that raise potential conflicts of interest including, but not limited to, the following:  
+A conflict of interest may exist when the interests or concerns of a Director may be seen, whether in fact or in appearance, as competing with the interests or concerns of the IPMC. A conflict of interest may also exist where a “Relative” or “Affiliated Entity” may be seen to have interests competing with the interests or concerns of the IPMC. A Relative includes a Director’s spouse, ancestors, siblings, children, grandchildren, great grandchildren, and their spouses. An Affiliated Entity is any corporation or business of which the Director is a director, officer, partner, owner, or otherwise has a business interest. There are a variety of situations that raise potential conflicts of interest including, but not limited to, the following:  
 
 **A. Financial Interests.** A conflict may exist where a Director or a Relative or an Affiliated Entity directly or indirectly benefits or profits as a result of an action, policy, or transaction made by the IPMC (a “Financial Interest”). A Financial Interest is not necessarily a conflict of interest. A conflict of interest exists only when the Directors decide the Director has a conflict of interest, or the appearance of a conflict of interest.   
 

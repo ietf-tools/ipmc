@@ -1,0 +1,37 @@
+{{/* Overrides the theme's list layout so a section's own _index.md text is shown.
+     Set `hide_page_list: true` in front matter when the text already links the pages. */}}
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+  {{ with .Content }}
+    <section class="section-sm">
+      <div class="container">
+        <div class="row justify-center">
+          <div class="lg:col-10">
+            <div class="content">
+              {{ . }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  {{ end }}
+
+  {{ if not .Params.hide_page_list }}
+    <section class="section">
+      <div class="container">
+        <ul class="text-center">
+          {{ range .RegularPages }}
+            <li class="m-3">
+              <a
+                href="{{ .Permalink }}"
+                class="text-dark dark:text-darkmode-dark block text-xl">
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </section>
+  {{ end }}
+{{ end }}
