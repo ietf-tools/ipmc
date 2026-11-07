@@ -14,4 +14,4 @@ The Trustees have also decided to apply the proposed 60 day notice period as par
 
 Redline copy of the [Proposed Amended Bylaws](/uploads/Bylaws-Proposed-Amendments-2023-REDLINE.pdf) reflecting the proposed changes is available.
 
-The existing copy of the Bylaws can be found on the [Founding Documents](/content/english/administration/bylaws.md) page.
+The existing copy of the Bylaws can be found on the [Founding Documents](/administration/bylaws/) page.
