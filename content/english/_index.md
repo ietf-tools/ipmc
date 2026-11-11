@@ -28,7 +28,7 @@ As of late 2026, we are in the process of updating other IETF documentation and 
 
 ## The IETF Trust archive
 
-The [IETF Trust website](https://trustee.ietf.org) website remains available as an archive. It holds the Trust's founding documents, minutes, financial statements, and announcements from 2005 to 2026.
+The [IETF Trust website](https://trustee.ietf.org) remains available as an archive. It holds the Trust's founding documents, minutes, financial statements, and announcements from 2005 to 2026.
 
 ## Contact
 
