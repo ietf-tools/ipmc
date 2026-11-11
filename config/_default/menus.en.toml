@@ -69,7 +69,7 @@ weight = 2
 
 [[footer]]
 name = "Contact"
-url = "/about"
+url = "/contact"
 weight = 3
 
 [[footer]]
