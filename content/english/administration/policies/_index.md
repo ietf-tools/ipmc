@@ -12,4 +12,4 @@ The IETF IPMC Board of Directors has adopted the following policies and procedur
 | [Conflicts of Interest Policy](/administration/policies/conflict/) | 2025-01-08 | [PDF](</uploads/IPMC Conflict of Interest Policy.pdf>) |
 | [Standards of Conduct](/administration/policies/conduct/) | 2025-01-08 | [PDF](</uploads/IPMC Standards of Conduct.pdf>) |
 | Administrative Procedures | 2025-01-08 | [PDF](</uploads/IPMC Administrative Procedures.pdf>) |
-| Whistleblower Policy | 2025-02-08 | [PDF](https://trustee.ietf.org/wp-content/uploads/IETF-IPMC-Whistleblower-Policy.pdf) |
+| Whistleblower Policy | 2025-02-08 | [PDF](</uploads/IETF-IPMC-Whistleblower-Policy.pdf>) |
