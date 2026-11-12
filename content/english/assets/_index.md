@@ -6,7 +6,7 @@ hide_page_list: true
 lastmod: 2026-11-12
 ---
 
-The IETF IPMC holds the intellectual property that was held by the IETF Trust until the Trust transferred its assets to the IPMC in November 2026. The IPMC does not hold any patents.
+The IETF IPMC holds the intellectual property that was held by the IETF Trust until the Trust transferred its assets to the IPMC in 2026. The IPMC does not hold any patents.
 
 - [Copyrights and Licenses](/assets/copyrights-and-licenses/): what the IPMC holds and the licenses it grants
 - [Asset Register](/assets/register/): a spreadsheet of all assets
