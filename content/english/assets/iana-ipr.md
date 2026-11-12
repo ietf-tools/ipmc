@@ -5,7 +5,7 @@ draft: false
 lastmod: 2026-11-12
 ---
 
-The IETF IPMC holds certain intellectual property (domain names and trademarks) associated with the Internet Assigned Numbers Authority (IANA), in the service of the affected Internet operational communities. The IETF Trust assumed stewardship of this intellectual property in September 2016 and transferred it to the IPMC in November 2026. The Trust's stewardship was the result of a two-year process that started in March 2014, when the U.S. Commerce Department’s National Telecommunications and Information Administration (NTIA) announced its intent to transfer the stewardship of key Internet functions to the global multistakeholder community.
+The IETF IPMC holds certain intellectual property (domain names and trademarks) associated with the Internet Assigned Numbers Authority (IANA), in the service of the affected Internet operational communities. The IETF Trust assumed stewardship of this intellectual property in September 2016 and transferred it to the IPMC in 2026. The Trust's stewardship was the result of a two-year process that started in March 2014, when the U.S. Commerce Department’s National Telecommunications and Information Administration (NTIA) announced its intent to transfer the stewardship of key Internet functions to the global multistakeholder community.
 
 ## Background
 
