@@ -55,6 +55,11 @@ parent = "Administration"
 name = "Bylaws"
 url = "/administration/bylaws"
 
+[[main]]
+parent = "Administration"
+name = "Appeals"
+url = "/administration/appeals"
+
 
 # footer menu
 [[footer]]

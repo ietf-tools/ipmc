@@ -12,3 +12,4 @@ The IETF IPMC is governed by a Board of five Directors, selected by the IETF Nom
 - [Financials](/administration/financials/): monthly statements, budgets and tax filings
 - [Policies & Procedures](/administration/policies/)
 - [Bylaws](/administration/bylaws/): founding documents, current bylaws and amendment history
+- [Appeals](/administration/appeals/): how to request a review of an IPMC decision
