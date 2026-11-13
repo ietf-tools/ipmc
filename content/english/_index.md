@@ -21,7 +21,6 @@ As of late 2026, we are in the process of updating other IETF documentation and 
 - [Technical Legal Provisions (TLP)](/tlp/): the rights granted in IETF documents, including drafts of TLP 6.0
 - [Frequently Asked Questions](/faq/): reproducing RFCs, using code from IETF documents, and the IETF name and logo
 - [Administration](/administration/): Directors, meeting minutes, financial statements, policies, and bylaws
-- [Announcements](/announcements/)
 <!-- After the Assets & Licensing pages are migrated, add:
 - [Assets & Licensing](/assets/): trademarks and logos, licenses, the Asset Register, and the IANA intellectual property
 -->
