@@ -6,7 +6,7 @@ date: 2025-10-03T05:00:00Z
 image: false
 author: "IPMC"
 tags: ["announcement", "bylaws"]
-draft: false
+draft: true # superseded: the October 2025 amendment process is complete; details remain at /administration/amendment-2025/
 ---
 
 The IETF Intellectual Property Management Corporation (IPMC) Directors are considering adopting a proposed set of amendments to the IETF IPMC bylaws.    
