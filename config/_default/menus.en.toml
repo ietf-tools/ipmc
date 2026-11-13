@@ -18,6 +18,47 @@ name = "About the IPMC"
 url = "/about"
 
 
+# assets & licensing
+[[main]]
+weight = 30
+name = "Assets & Licensing"
+
+[[main]]
+parent = "Assets & Licensing"
+name = "Assets"
+url = "/assets"
+
+[[main]]
+parent = "Assets & Licensing"
+name = "Copyrights and Licenses"
+url = "/assets/copyrights-and-licenses"
+
+[[main]]
+parent = "Assets & Licensing"
+name = "Asset Register"
+url = "/assets/register"
+
+[[main]]
+parent = "Assets & Licensing"
+name = "Copyright"
+url = "/assets/copyright"
+
+[[main]]
+parent = "Assets & Licensing"
+name = "Licenses"
+url = "/assets/licenses"
+
+[[main]]
+parent = "Assets & Licensing"
+name = "Trademarks and Logos"
+url = "/assets/trademarks"
+
+[[main]]
+parent = "Assets & Licensing"
+name = "IANA Intellectual Property"
+url = "/assets/iana-ipr"
+
+
 # tlp
 [[main]]
 weight = 40
